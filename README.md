@@ -68,8 +68,6 @@ Python · NumPy · Matplotlib · Jupyter Notebook
 3. Open a notebook with `jupyter notebook`.
 4. Run the cells in order.
 
-> The notebooks use helper files from the course (`utils.py`, `public_tests.py`) and the `data/` folder. Keep them in the same folder as the notebooks.
-
 ## Credits
 Labs and datasets are from the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by DeepLearning.AI and Stanford Online. The code between `START CODE HERE` and `END CODE HERE` is my own implementation.
 
